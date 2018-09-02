@@ -20,5 +20,4 @@
 
 以上六點開放認領,想要兩人一起的也可以,有問題或有其他要新增的提出來,預計9/12前完成。<br/>
 <br/>
-![Alt text][id]
-[id]:https://github.com/WarrenLo/Project_Taxi_Data_Analysis/blob/master/image/DFD%20-%20Lv.0.jpg
+![Alt text](https://github.com/WarrenLo/Project_Taxi_Data_Analysis/blob/master/image/DFD%20-%20Lv.0.jpg)
